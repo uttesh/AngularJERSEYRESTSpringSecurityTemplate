@@ -1,0 +1,15 @@
+<div class="page-header">
+	<h2>Login</h2>
+</div>
+
+<p class="alert alert-info">Login with either user:user to read entries or with admin:admin to read and edit entries.</p>
+
+<form class="form-signin">
+        <h2 class="form-signin-heading">Please sign in</h2>
+        <input type="text" id="username" ng-model="username" class="form-control" placeholder="UserName" autofocus>
+        <input type="password" class="form-control" id="password" ng-model="password" placeholder="Password">
+        <label class="checkbox">
+          <input type="checkbox" value="remember-me"> Remember me
+        </label>
+        <button class="btn btn-lg btn-primary btn-block" type="submit" ng-click="login()">Sign in</button>
+</form>
