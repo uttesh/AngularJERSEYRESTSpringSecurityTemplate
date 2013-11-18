@@ -5,16 +5,16 @@ Basic template for web application with front end angularJS framework and REST a
 
 <h4>Technologies</h4>
 ---------------------
-1.Java 1.6
-2.Spring 2.3.4
-3.Spring Security 2
-4.Jersey REST
-5.Json
-6.Angularjs
-7.Jquery
-8.Bootstrap 3.0 css
-9.FontAwesome
-10.Maven
+1.Java 1.6 <br/>
+2.Spring 2.3.4 <br/>
+3.Spring Security 2 <br/>
+4.Jersey REST <br/>
+5.Json <br/>
+6.Angularjs <br/>
+7.Jquery <br/>
+8.Bootstrap 3.0 css <br/>
+9.FontAwesome <br/>
+10.Maven <br/>
 
  This template provide the spring security login i.e no need to implement the role base code, By using spring security plugin we can achieve the role base implementation for application.
  here frontend is handling by angularjs, i took angularjs seed sample and modified with Spring implemetation with jersey.
